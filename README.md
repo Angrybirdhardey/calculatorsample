@@ -1,5 +1,5 @@
 # calculatorsample
-*abc
-*ghf
-*njnhj
+* abc
+* ghf
+* njnhj
 
