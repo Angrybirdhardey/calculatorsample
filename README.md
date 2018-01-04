@@ -1,5 +1,2 @@
-# calculatorsample
-* abc
-* ghf
-* njnhj
+#sample
 
